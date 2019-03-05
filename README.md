@@ -1,3 +1,5 @@
+# primo-explore-cu has been consolidated into the monorepo [primo-explore-views](https://github.com/NYULibraries/primo-explore-views)
+
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/NYULibraries/primo-explore-cu/latest.svg)](https://github.com/NYULibraries/primo-explore-cu/releases/latest)
 
 # Cooper Union primo-explore package
